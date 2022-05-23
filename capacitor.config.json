@@ -1,0 +1,6 @@
+{
+	"appId": "vecindiario.mobile.v1",
+	"appName": "vecindiario-mobile",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
